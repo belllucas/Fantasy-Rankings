@@ -1,181 +1,240 @@
-Player_Name,Position,Team,Aggregate_Rank,Projected_Points,Expected_Round,Positional_Tier,Sleeper_Flag,Drafted,Likely_Available
-Saquon Barkley,RB,PHI,1,285,1,1,,No,Yes
-Bijan Robinson,RB,ATL,2,275,1,1,,No,Yes
-Josh Allen,QB,BUF,3,320,1,1,,No,Yes
-Jahmyr Gibbs,RB,DET,4,270,1,1,,No,Yes
-Derrick Henry,RB,BAL,5,265,1,1,,No,Yes
-Lamar Jackson,QB,BAL,6,315,1,1,,No,Yes
-Ashton Jeanty,RB,LV,7,260,1,1,💡,No,Yes
-Ja'Marr Chase,WR,CIN,8,250,1,1,,No,Yes
-Justin Jefferson,WR,MIN,9,245,1,1,,No,Yes
-CeeDee Lamb,WR,DAL,10,240,1,1,,No,Yes
-Jonathan Taylor,RB,IND,11,255,1,1,,No,Yes
-Josh Jacobs,RB,GB,12,250,2,1,,No,Yes
-Christian McCaffrey,RB,SF,13,245,2,1,,No,Yes
-Puka Nacua,WR,LAR,14,235,2,1,,No,Yes
-De'Von Achane,RB,MIA,15,240,2,1,,No,Yes
-Malik Nabers,WR,NYG,16,230,2,1,,No,Yes
-Nico Collins,WR,HOU,17,225,2,1,,No,Yes
-Bucky Irving,RB,TB,18,235,2,2,💡,No,Yes
-Brian Thomas Jr.,WR,JAC,19,220,2,1,💡,No,Yes
-Kyren Williams,RB,LAR,20,230,2,2,,No,Yes
-Amon-Ra St. Brown,WR,DET,21,215,2,1,,No,Yes
-James Cook,RB,BUF,22,225,2,2,,No,Yes
-A.J. Brown,WR,PHI,23,210,2,1,,No,Yes
-Chase Brown,RB,CIN,24,220,2,2,💡,No,Yes
-Drake London,WR,ATL,25,205,3,2,,No,Yes
-Ladd McConkey,WR,LAC,26,200,3,2,💡,No,Yes
-Breece Hall,RB,NYJ,27,215,3,2,,No,Yes
-Tee Higgins,WR,CIN,28,195,3,2,,No,Yes
-Kenneth Walker III,RB,SEA,29,210,3,2,,No,Yes
-Mike Evans,WR,TB,30,190,3,2,,No,Yes
-Jayden Daniels,QB,WAS,31,290,3,2,💡,No,Yes
-Chuba Hubbard,RB,CAR,32,205,3,3,💡,No,Yes
-Terry McLaurin,WR,WAS,33,185,3,2,,No,Yes
-James Conner,RB,ARI,34,200,3,3,,No,Yes
-Jalen Hurts,QB,PHI,35,285,3,2,,No,Yes
-Davante Adams,WR,LAR,36,180,3,2,,No,Yes
-Tyreek Hill,WR,MIA,37,175,4,2,,No,Yes
-Joe Mixon,RB,HOU,38,195,4,3,,No,Yes
-Jaxon Smith-Njigba,WR,SEA,39,170,4,3,,No,Yes
-Alvin Kamara,RB,NO,40,190,4,3,,No,Yes
-George Kittle,TE,SF,41,145,4,1,,No,Yes
-Rashee Rice,WR,KC,42,165,4,3,,No,Yes
-Garrett Wilson,WR,NYJ,43,160,4,3,,No,Yes
-Brock Bowers,TE,LV,44,140,4,1,💡,No,Yes
-Marvin Harrison Jr.,WR,ARI,45,155,4,3,,No,Yes
-Joe Burrow,QB,CIN,46,275,4,3,,No,Yes
-DK Metcalf,WR,PIT,47,150,5,3,,No,Yes
-Omarion Hampton,RB,LAC,48,185,5,4,💡,No,Yes
-Jameson Williams,WR,DET,49,145,5,3,💡,No,Yes
-David Montgomery,RB,DET,50,180,5,4,,No,Yes
-D'Andre Swift,RB,CHI,51,175,5,4,,No,Yes
-DJ Moore,WR,CHI,52,140,5,3,,No,Yes
-Zay Flowers,WR,BAL,53,135,5,3,,No,Yes
-Trey McBride,TE,ARI,54,135,5,1,,No,Yes
-RJ Harvey,RB,DEN,55,170,5,4,💡,No,Yes
-Courtland Sutton,WR,DEN,56,130,5,3,,No,Yes
-TreVeyon Henderson,RB,NE,57,165,5,4,💡,No,Yes
-Xavier Worthy,WR,KC,58,125,6,4,,No,Yes
-Kaleb Johnson,RB,PIT,59,160,6,4,💡,No,Yes
-DeVonta Smith,WR,PHI,60,120,6,4,,No,Yes
-Aaron Jones Sr.,RB,MIN,61,155,6,4,,No,Yes
-Calvin Ridley,WR,TEN,62,115,6,4,,No,Yes
-Sam LaPorta,TE,DET,63,130,6,1,,No,Yes
-George Pickens,WR,DAL,64,110,6,4,,No,Yes
-Quinshon Judkins,RB,CLE,65,150,6,5,💡,No,Yes
-Mark Andrews,TE,BAL,66,125,6,2,,No,Yes
-Tetairoa McMillan,WR,CAR,67,105,6,4,💡,No,Yes
-Tony Pollard,RB,TEN,68,145,6,5,,No,Yes
-Jordan Addison,WR,MIN,69,100,7,4,,No,Yes
-Patrick Mahomes II,QB,KC,70,310,7,3,,No,Yes
-Jaylen Waddle,WR,MIA,71,95,7,4,,No,Yes
-Isiah Pacheco,RB,KC,72,140,7,5,,No,Yes
-Travis Hunter,WR,JAC,73,90,7,5,💡,No,Yes
-Brian Robinson Jr.,RB,WAS,74,135,7,5,,No,Yes
-Chris Godwin,WR,TB,75,85,7,5,,No,Yes
-T.J. Hockenson,TE,MIN,76,120,7,2,,No,Yes
-Najee Harris,RB,LAC,77,130,7,5,,No,Yes
-Chris Olave,WR,NO,78,80,7,5,,No,Yes
-Tyrone Tracy Jr.,RB,NYG,79,125,8,5,,No,Yes
-Rome Odunze,WR,CHI,80,75,8,5,💡,No,Yes
-Travis Kelce,TE,KC,81,115,8,2,,No,Yes
-Travis Etienne Jr.,RB,JAC,82,120,8,5,,No,Yes
-Jerry Jeudy,WR,CLE,83,70,8,5,,No,Yes
-Tucker Kraft,TE,GB,84,110,8,2,💡,No,Yes
-Jaylen Warren,RB,PIT,85,115,8,6,,No,Yes
-Jayden Reed,WR,GB,86,65,8,5,,No,Yes
-Jordan Mason,RB,MIN,87,110,8,6,,No,Yes
-Deebo Samuel Sr.,WR,WAS,88,60,8,5,,No,Yes
-Baker Mayfield,QB,TB,89,280,8,4,,No,Yes
-Rhamondre Stevenson,RB,NE,90,105,9,6,,No,Yes
-Jauan Jennings,WR,SF,91,55,9,6,,No,Yes
-David Njoku,TE,CLE,92,105,9,2,,No,Yes
-Zach Charbonnet,RB,SEA,93,100,9,6,,No,Yes
-Jakobi Meyers,WR,LV,94,50,9,6,,No,Yes
-Javonte Williams,RB,DAL,95,95,9,6,,No,Yes
-Khalil Shakir,WR,BUF,96,45,9,6,,No,Yes
-Bo Nix,QB,DEN,97,275,9,4,💡,No,Yes
-Tank Bigsby,RB,JAC,98,90,9,6,,No,Yes
-Ricky Pearsall,WR,SF,99,40,9,6,💡,No,Yes
-Cam Skattebo,RB,NYG,100,85,9,7,💡,No,Yes
-Brandon Aiyuk,WR,SF,101,35,10,6,,No,Yes
-Evan Engram,TE,DEN,102,100,10,3,,No,Yes
-Ray Davis,RB,BUF,103,80,10,7,,No,Yes
-Josh Downs,WR,IND,104,30,10,7,,No,Yes
-Tyjae Spears,RB,TEN,105,75,10,7,,No,Yes
-Stefon Diggs,WR,NE,106,25,10,7,,No,Yes
-Kyler Murray,QB,ARI,107,270,10,4,,No,Yes
-Rachaad White,RB,TB,108,70,10,7,,No,Yes
-Darnell Mooney,WR,ATL,109,20,10,7,,No,Yes
-Dalton Kincaid,TE,BUF,110,95,10,3,,No,Yes
-Trey Benson,RB,ARI,111,65,10,7,,No,Yes
-Keon Coleman,WR,BUF,112,15,11,7,💡,No,Yes
-Tyler Allgeier,RB,ATL,113,60,11,7,,No,Yes
-Cooper Kupp,WR,SEA,114,10,11,7,,No,Yes
-Tyler Warren,TE,IND,115,90,11,3,💡,No,Yes
-Isaac Guerendo,RB,SF,116,55,11,8,,No,Yes
-Michael Pittman Jr.,WR,IND,117,5,11,8,,No,Yes
-Jaylen Wright,RB,MIA,118,50,11,8,,No,Yes
-Rashid Shaheed,WR,NO,119,0,11,8,💡,No,Yes
-Justin Fields,QB,NYJ,120,265,11,5,💡,No,Yes
-J.K. Dobbins,RB,DEN,121,45,11,8,,No,Yes
-Rashod Bateman,WR,BAL,122,-5,12,8,,No,Yes
-Jonnu Smith,TE,PIT,123,85,12,3,,No,Yes
-Rico Dowdle,RB,CAR,124,40,12,8,,No,Yes
-Marvin Mims Jr.,WR,DEN,125,-10,12,8,💡,No,Yes
-Austin Ekeler,RB,WAS,126,35,12,8,,No,Yes
-Matthew Golden,WR,GB,127,-15,12,8,💡,No,Yes
-Dallas Goedert,TE,PHI,128,80,12,4,,No,Yes
-Jaydon Blue,RB,DAL,129,30,12,9,💡,No,Yes
-Emeka Egbuka,WR,TB,130,-20,12,9,💡,No,Yes
-Brock Purdy,QB,SF,131,260,12,5,,No,Yes
-Bhayshul Tuten,RB,JAC,132,25,12,9,💡,No,Yes
-Christian Kirk,WR,HOU,133,-25,13,9,,No,Yes
-Blake Corum,RB,LAR,134,20,13,9,,No,Yes
-Luther Burden III,WR,CHI,135,-30,13,9,💡,No,Yes
-Isaiah Likely,TE,BAL,136,75,13,4,💡,No,Yes
-Braelon Allen,RB,NYJ,137,15,13,9,,No,Yes
-Jalen McMillan,WR,TB,138,-35,13,9,💡,No,Yes
-Nick Chubb,RB,HOU,139,10,13,9,,No,Yes
-Romeo Doubs,WR,GB,140,-40,13,9,,No,Yes
-Caleb Williams,QB,CHI,141,255,13,5,💡,No,Yes
-Roschon Johnson,RB,CHI,142,5,13,10,,No,Yes
-Cedric Tillman,WR,CLE,143,-45,14,10,💡,No,Yes
-Kyle Pitts,TE,ATL,144,70,14,4,,No,Yes
-MarShawn Lloyd,RB,GB,145,0,14,10,,No,Yes
-Marquise Brown,WR,KC,146,-50,14,10,,No,Yes
-Jerome Ford,RB,CLE,147,-5,14,10,,No,Yes
-Tre Harris,WR,LAC,148,-55,14,10,💡,No,Yes
-Colston Loveland,TE,CHI,149,65,14,4,💡,No,Yes
-Kareem Hunt,RB,KC,150,-10,14,10,,No,Yes
-Quentin Johnston,WR,LAC,151,-60,14,10,,No,Yes
-DJ Giddens,RB,IND,152,-15,15,10,💡,No,Yes
-Kyle Williams,WR,NE,153,-65,15,11,💡,No,Yes
-Hunter Henry,TE,NE,154,60,15,5,,No,Yes
-Dylan Sampson,RB,CLE,155,-20,15,10,💡,No,Yes
-Adam Thielen,WR,CAR,156,-70,15,11,,No,Yes
-Jake Ferguson,TE,DAL,157,55,15,5,,No,Yes
-Kendre Miller,RB,NO,158,-25,15,11,,No,Yes
-DeAndre Hopkins,WR,BAL,159,-75,15,11,,No,Yes
-Justice Hill,RB,BAL,160,-30,15,11,,No,Yes
-Joshua Palmer,WR,BUF,161,-80,15,11,,No,Yes
-Zach Ertz,TE,WAS,162,50,15,5,,No,Yes
-Devin Neal,RB,NO,163,-35,15,11,💡,No,Yes
-Xavier Legette,WR,CAR,164,-85,15,11,💡,No,Yes
-Miles Sanders,RB,DAL,165,-40,15,11,,No,Yes
-Jayden Higgins,WR,HOU,166,-90,15,12,💡,No,Yes
-Denver Broncos,DEF,DEN,167,120,15,1,,No,Yes
-Alec Pierce,WR,IND,168,-95,15,12,,No,Yes
-Philadelphia Eagles,DEF,PHI,169,115,15,1,,No,Yes
-Wan'Dale Robinson,WR,NYG,170,-100,15,12,,No,Yes
-Baltimore Ravens,DEF,BAL,171,110,15,1,,No,Yes
-DeMario Douglas,WR,NE,172,-105,15,12,,No,Yes
-Brandon Aubrey,K,DAL,173,130,15,1,,No,Yes
-Jake Bates,K,DET,174,125,15,1,,No,Yes
-Pittsburgh Steelers,DEF,PIT,175,105,15,2,,No,Yes
-Cameron Dicker,K,LAC,176,120,15,1,,No,Yes
-Minnesota Vikings,DEF,MIN,177,100,15,2,,No,Yes
-Wil Lutz,K,DEN,178,115,15,1,,No,Yes
-Houston Texans,DEF,HOU,179,95,15,2,,No,Yes
-Chris Boswell,K,PIT,180,110,15,1,,No,Yes
+Player_Name	Position	Team	Aggregate_Rank	Projected_Points	Expected_Round	Positional_Tier	Sleeper_Flag	Drafted	Likely_Available	Draft Tracker	Likely Available
+Bijan Robinson	RB	ATL	1	285	1	1		No	Yes	No	No
+Jahmyr Gibbs	RB	DET	2	275	1	1		No	Yes	No	No
+Derrick Henry	RB	BAL	3	265	1	1		No	Yes	No	No
+Christian McCaffrey	RB	SF	4	260	1	1		No	Yes	No	No
+Saquon Barkley	RB	PHI	5	255	1	1		No	Yes	No	No
+Ja'Marr Chase	WR	CIN	6	240	1	1		No	Yes	No	No
+De'Von Achane	RB	MIA	7	250	1	1		No	Yes	No	No
+Ashton Jeanty	RB	BSU	8	245	1	1		No	Yes	No	No
+Justin Jefferson	WR	MIN	9	235	1	1		No	Yes	No	No
+CeeDee Lamb	WR	DAL	10	230	1	1		No	Yes	No	No
+Malik Nabers	WR	NYG	11	225	2	1		No	Yes	No	No
+Nico Collins	WR	HOU	12	220	2	1		No	Yes	No	No
+Josh Jacobs	RB	GB	13	240	2	1		No	Yes	No	No
+Jonathan Taylor	RB	IND	14	235	2	1		No	Yes	No	No
+Chase Brown	RB	CIN	15	230	2	1		No	Yes	No	No
+Bucky Irving	RB	TB	16	225	2	1		No	Yes	No	No
+Puka Nacua	WR	LAR	17	215	2	1		No	Yes	No	No
+Amon-Ra St. Brown	WR	DET	18	210	2	2		No	Yes	No	No
+Brian Thomas Jr.	WR	JAC	19	205	2	2		No	Yes	No	No
+James Cook	RB	BUF	20	220	2	2		No	Yes	No	No
+A.J. Brown	WR	PHI	21	200	2	2		No	Yes	No	No
+Tee Higgins	WR	CIN	22	195	2	2		No	Yes	No	No
+Drake London	WR	ATL	23	190	2	2		No	Yes	No	No
+Kenneth Walker III	RB	SEA	24	215	2	2		No	Yes	No	No
+Omarion Hampton	RB	UNC	25	210	3	2		No	Yes	No	No
+Kyren Williams	RB	LAR	26	205	3	2		No	Yes	No	No
+Brock Bowers	TE	LV	27	155	3	1		No	Yes	No	No
+Tyreek Hill	WR	MIA	28	185	3	2		No	Yes	No	No
+Ladd McConkey	WR	LAC	29	180	3	2		No	Yes	No	No
+Josh Allen	QB	BUF	30	350	3	1		No	Yes	No	No
+Lamar Jackson	QB	BAL	31	340	3	1		No	Yes	No	No
+Jayden Daniels	QB	WAS	32	330	3	1		No	Yes	No	No
+Breece Hall	RB	NYJ	33	200	3	2		No	Yes	No	No
+Davante Adams	WR	NYJ	34	175	3	2		No	Yes	No	No
+Chuba Hubbard	RB	CAR	35	195	3	2		No	Yes	No	No
+James Conner	RB	ARI	36	190	3	2		No	Yes	No	No
+Alvin Kamara	RB	NO	37	185	3	2		No	Yes	No	No
+Garrett Wilson	WR	NYJ	38	170	3	2		No	Yes	No	No
+DK Metcalf	WR	SEA	39	165	3	2		No	Yes	No	No
+Trey McBride	TE	ARI	40	150	4	1		No	Yes	No	No
+Terry McLaurin	WR	WAS	41	160	4	3		No	Yes	No	No
+Jaxon Smith-Njigba	WR	SEA	42	155	4	3		No	Yes	No	No
+Courtland Sutton	WR	DEN	43	150	4	3		No	Yes	No	No
+Joe Burrow	QB	CIN	44	320	4	2		No	Yes	No	No
+Jalen Hurts	QB	PHI	45	315	4	2		No	Yes	No	No
+Marvin Harrison Jr.	WR	ARI	46	145	4	3		No	Yes	No	No
+David Montgomery	RB	DET	47	180	4	3		No	Yes	No	No
+George Kittle	TE	SF	48	145	4	1		No	Yes	No	No
+Xavier Worthy	WR	KC	49	140	4	3		No	Yes	No	No
+D.J. Moore	WR	CHI	50	135	4	3		No	Yes	No	No
+Tank Dell	WR	HOU	51	130	5	3		No	Yes	No	No
+Treveyon Henderson	RB	OSU	52	175	5	3		No	Yes	No	No
+George Pickens	WR	PIT	53	125	5	3		No	Yes	No	No
+DeVonta Smith	WR	PHI	54	120	5	3		No	Yes	No	No
+Tony Pollard	RB	TEN	55	170	5	3		No	Yes	No	No
+Travis Hunter	WR	COL	56	115	5	3	Yes	No	Yes	No	No
+Dandre Swift	RB	PHI	57	165	5	3		No	Yes	No	No
+RJ Harvey	RB	UCF	58	160	5	3		No	Yes	No	No
+Jaylen Waddle	WR	MIA	59	110	5	3		No	Yes	No	No
+Sam LaPorta	TE	DET	60	140	5	1		No	Yes	No	No
+Patrick Mahomes	QB	KC	61	310	5	2		No	Yes	No	No
+Aaron Jones	RB	MIN	62	155	5	3		No	Yes	No	No
+Isiah Pacheco	RB	KC	63	150	5	3		No	Yes	No	No
+Rome Odunze	WR	CHI	64	105	6	3		No	Yes	No	No
+Jerry Jeudy	WR	CLE	65	100	6	3		No	Yes	No	No
+Chris Olave	WR	NO	66	95	6	3		No	Yes	No	No
+David Njoku	TE	CLE	67	135	6	2		No	Yes	No	No
+Stefon Diggs	WR	HOU	68	90	6	3		No	Yes	No	No
+Travis Kelce	TE	KC	69	130	6	2		No	Yes	No	No
+Joe Mixon	RB	HOU	70	145	6	3		No	Yes	No	No
+Chris Godwin	WR	TB	71	85	6	3		No	Yes	No	No
+Deebo Samuel	WR	SF	72	80	6	3		No	Yes	No	No
+Evan Engram	TE	JAC	73	125	6	2		No	Yes	No	No
+Calvin Ridley	WR	TEN	74	75	6	4		No	Yes	No	No
+Jaylen Warren	RB	PIT	75	140	7	3		No	Yes	No	No
+J.K. Dobbins	RB	LAC	76	135	7	4		No	Yes	No	No
+Jakobi Meyers	WR	LV	77	70	7	4		No	Yes	No	No
+Khalil Shakir	WR	BUF	78	65	7	4		No	Yes	No	No
+Javonte Williams	RB	DEN	79	130	7	4		No	Yes	No	No
+Cooper Kupp	WR	LAR	80	60	7	4		No	Yes	No	No
+Zay Flowers	WR	BAL	81	55	7	4		No	Yes	No	No
+Tank Bigsby	RB	JAC	82	125	7	4		No	Yes	No	No
+Baker Mayfield	QB	TB	83	305	7	2		No	Yes	No	No
+Jordan Mason	RB	SF	84	120	7	4		No	Yes	No	No
+Keon Coleman	WR	BUF	85	50	7	4		No	Yes	No	No
+Cedric Tillman	WR	CLE	86	45	8	4		No	Yes	No	No
+Travis Etienne	RB	JAC	87	115	8	4		No	Yes	No	No
+Cam Skattebo	RB	ASU	88	110	8	4		No	Yes	No	No
+Rhamondre Stevenson	RB	NE	89	105	8	4		No	Yes	No	No
+Michael Pittman Jr.	WR	IND	90	40	8	4		No	Yes	No	No
+Tyrone Tracy Jr.	RB	NYG	91	100	8	4		No	Yes	No	No
+Jauan Jennings	WR	SF	92	35	8	4		No	Yes	No	No
+Najee Harris	RB	PIT	93	95	8	4		No	Yes	No	No
+Amari Cooper	WR	CLE	94	30	8	4		No	Yes	No	No
+Bo Nix	QB	DEN	95	300	8	3		No	Yes	No	No
+Dak Prescott	QB	DAL	96	295	8	3		No	Yes	No	No
+Justin Fields	QB	PIT	97	290	8	3		No	Yes	No	No
+Darnell Mooney	WR	ATL	98	25	9	4		No	Yes	No	No
+Jared Goff	QB	DET	99	285	9	3		No	Yes	No	No
+Tucker Kraft	TE	GB	100	120	9	2		No	Yes	No	No
+T.J. Hockenson	TE	MIN	101	115	9	2		No	Yes	No	No
+Keenan Allen	WR	CHI	102	20	9	4		No	Yes	No	No
+Jayden Reed	WR	GB	103	15	9	4		No	Yes	No	No
+Zach Charbonnet	RB	SEA	104	90	9	4		No	Yes	No	No
+Josh Downs	WR	IND	105	10	9	4		No	Yes	No	No
+Tyjae Spears	RB	TEN	106	85	9	4		No	Yes	No	No
+Isaiah Likely	TE	BAL	107	110	10	2		No	Yes	No	No
+Diontae Johnson	WR	CAR	108	5	10	4		No	Yes	No	No
+Jordan Addison	WR	MIN	109	0	10	4		No	Yes	No	No
+DeAndre Hopkins	WR	KC	110	-5	10	4		No	Yes	No	No
+Kyle Pitts	TE	ATL	111	105	10	2		No	Yes	No	No
+Trevor Lawrence	QB	JAC	112	280	10	3		No	Yes	No	No
+Drake Maye	QB	NE	113	275	10	3	Yes	No	Yes	No	No
+Colston Loveland	TE	UM	114	100	10	3		No	Yes	No	No
+Anthony Richardson	QB	IND	115	270	10	3		No	Yes	No	No
+Tyler Lockett	WR	SEA	116	-10	11	4		No	Yes	No	No
+Kimani Vidal	RB	LAC	117	80	11	4		No	Yes	No	No
+Jameson Williams	WR	DET	118	-15	11	4		No	Yes	No	No
+Demario Douglas	WR	NE	119	-20	11	4		No	Yes	No	No
+Roschon Johnson	RB	CHI	120	75	11	4		No	Yes	No	No
+Brandon Aiyuk	WR	SF	121	-25	11	4		No	Yes	No	No
+Ray Davis	RB	BUF	122	70	11	4		No	Yes	No	No
+Jaylen Wright	RB	MIA	123	65	12	4		No	Yes	No	No
+Caleb Williams	QB	CHI	124	265	12	3		No	Yes	No	No
+Dallas Goedert	TE	PHI	125	95	12	3		No	Yes	No	No
+Jayden Higgins	WR	IA	126	-30	12	4		No	Yes	No	No
+Trey Benson	RB	ARI	127	60	12	4		No	Yes	No	No
+Raheem Mostert	RB	MIA	128	55	12	4		No	Yes	No	No
+Jalen McMillan	WR	TB	129	-35	12	4		No	Yes	No	No
+WanDale Robinson	WR	NYG	130	-40	12	4		No	Yes	No	No
+Rashid Shaheed	WR	NO	131	-45	12	4		No	Yes	No	No
+Cole Kmet	TE	CHI	132	90	12	3		No	Yes	No	No
+Tre Harris	WR	OLE	133	-50	13	4		No	Yes	No	No
+Darius Slayton	WR	NYG	134	-55	13	4		No	Yes	No	No
+Hunter Henry	TE	NE	135	85	13	3		No	Yes	No	No
+Tyler Allgeier	RB	ATL	136	50	13	4		No	Yes	No	No
+Mason Taylor	TE	LSU	137	80	13	3		No	Yes	No	No
+Quinshon Judkins	RB	OSU	138	45	13	4		No	Yes	No	No
+Tetairoa McMillan	WR	ARI	139	-60	13	4		No	Yes	No	NoOverall Rank,Player Name,Position,Team,Bye Week,ESPN Rank,Yahoo Rank,CBS Rank,FantasyPros Rank,Avg Rank,Likely Available (Pick #),Drafted,My Player,Custom Score,Tier,Value Score
+1,Bijan Robinson,RB,ATL,12,1,1,1,1,1.0,1,No,No,95.2,1,15.8
+2,Saquon Barkley,RB,PHI,5,2,2,2,2,2.0,2,No,No,94.8,1,14.9
+3,Breece Hall,RB,NYJ,12,3,3,3,3,3.0,3,No,No,93.5,1,13.2
+4,Christian McCaffrey,RB,SF,9,4,4,4,4,4.0,4,No,No,92.9,1,12.8
+5,Ja'Marr Chase,WR,CIN,12,5,5,5,5,5.0,5,No,No,91.7,1,11.4
+6,Kyren Williams,RB,LAR,6,6,6,6,6,6.0,6,No,No,90.8,1,10.9
+7,Jahmyr Gibbs,RB,DET,5,7,7,7,7,7.0,7,No,No,90.2,1,10.5
+8,CeeDee Lamb,WR,DAL,7,8,8,8,8,8.0,8,No,No,89.9,1,9.8
+9,Jonathan Taylor,RB,IND,14,9,9,9,9,9.0,9,No,No,89.3,1,9.2
+10,A.J. Brown,WR,PHI,5,10,10,10,10,10.0,10,No,No,88.7,1,8.7
+11,Tyreek Hill,WR,MIA,6,11,11,11,11,11.0,11,No,No,88.1,2,8.1
+12,De'Von Achane,RB,MIA,6,12,12,12,12,12.0,12,No,No,87.6,2,7.8
+13,Amon-Ra St. Brown,WR,DET,5,13,13,13,13,13.0,13,No,No,87.0,2,7.4
+14,Derrick Henry,RB,BAL,14,14,14,14,14,14.0,14,No,No,86.5,2,6.9
+15,Garrett Wilson,WR,NYJ,12,15,15,15,15,15.0,15,No,No,86.1,2,6.5
+16,Puka Nacua,WR,LAR,6,16,16,16,16,16.0,16,No,No,85.7,2,6.2
+17,Kenneth Walker III,RB,SEA,10,17,17,17,17,17.0,17,No,No,85.2,2,5.8
+18,Mike Evans,WR,TB,11,18,18,18,18,18.0,18,No,No,84.8,2,5.4
+19,Stefon Diggs,WR,HOU,14,19,19,19,19,19.0,19,No,No,84.3,2,5.1
+20,Chris Olave,WR,NO,12,20,20,20,20,20.0,20,No,No,83.9,2,4.7
+21,DJ Moore,WR,CHI,7,21,21,21,21,21.0,21,No,No,83.4,2,4.4
+22,Alvin Kamara,RB,NO,12,22,22,22,22,22.0,22,No,No,83.0,2,4.0
+23,Isiah Pacheco,RB,KC,6,23,23,23,23,23.0,23,No,No,82.5,2,3.7
+24,Jayden Daniels,QB,WAS,14,24,24,24,24,24.0,24,No,No,82.1,3,3.4
+25,Travis Kelce,TE,KC,6,25,25,25,25,25.0,25,No,No,81.6,3,3.1
+26,Davante Adams,WR,NYJ,12,26,26,26,26,26.0,26,No,No,81.2,3,2.8
+27,Joe Mixon,RB,HOU,14,27,27,27,27,27.0,27,No,No,80.7,3,2.5
+28,Josh Allen,QB,BUF,12,28,28,28,28,28.0,28,No,No,80.3,3,2.2
+29,Deebo Samuel,WR,SF,9,29,29,29,29,29.0,29,No,No,79.8,3,1.9
+30,Lamar Jackson,QB,BAL,14,30,30,30,30,30.0,30,No,No,79.4,3,1.6
+31,James Cook,RB,BUF,12,31,31,31,31,31.0,31,No,No,78.9,3,1.3
+32,Malik Nabers,WR,NYG,11,32,32,32,32,32.0,32,No,No,78.5,3,1.0
+33,Rachaad White,RB,TB,11,33,33,33,33,33.0,33,No,No,78.0,3,0.8
+34,Drake London,WR,ATL,12,34,34,34,34,34.0,34,No,No,77.6,3,0.5
+35,Tee Higgins,WR,CIN,12,35,35,35,35,35.0,35,No,No,77.1,3,0.3
+36,Sam LaPorta,TE,DET,5,36,36,36,36,36.0,36,No,No,76.7,4,0.1
+37,Josh Jacobs,RB,GB,10,37,37,37,37,37.0,37,No,No,76.2,4,-0.1
+38,Marvin Harrison Jr.,WR,ARI,11,38,38,38,38,38.0,38,No,No,75.8,4,-0.3
+39,Aaron Jones,RB,MIN,6,39,39,39,39,39.0,39,No,No,75.3,4,-0.5
+40,Mark Andrews,TE,BAL,14,40,40,40,40,40.0,40,No,No,74.9,4,-0.7
+41,Brock Bowers,TE,LV,10,41,41,41,41,41.0,41,No,No,74.4,4,-0.9
+42,Calvin Ridley,WR,TEN,5,42,42,42,42,42.0,42,No,No,74.0,4,-1.1
+43,Tank Dell,WR,HOU,14,43,43,43,43,43.0,43,No,No,73.5,4,-1.3
+44,Jaylen Waddle,WR,MIA,6,44,44,44,44,44.0,44,No,No,73.1,4,-1.5
+45,Anthony Richardson,QB,IND,14,45,45,45,45,45.0,45,No,No,72.6,4,-1.7
+46,Brian Robinson Jr.,RB,WAS,14,46,46,46,46,46.0,46,No,No,72.2,4,-1.9
+47,Amari Cooper,WR,CLE,10,47,47,47,47,47.0,47,No,No,71.7,5,-2.1
+48,George Pickens,WR,PIT,9,48,48,48,48,48.0,48,No,No,71.3,5,-2.3
+49,Dak Prescott,QB,DAL,7,49,49,49,49,49.0,49,No,No,70.8,5,-2.5
+50,Rhamondre Stevenson,RB,NE,14,50,50,50,50,50.0,50,No,No,70.4,5,-2.7
+51,Rome Odunze,WR,CHI,7,51,51,51,51,51.0,51,No,No,69.9,5,-2.8
+52,Jordan Love,QB,GB,10,52,52,52,52,52.0,52,No,No,69.5,5,-3.0
+53,Evan Engram,TE,JAC,12,53,53,53,53,53.0,53,No,No,69.0,5,-3.2
+54,Zay Flowers,WR,BAL,14,54,54,54,54,54.0,54,No,No,68.6,5,-3.3
+55,Cooper Kupp,WR,LAR,6,55,55,55,55,55.0,55,No,No,68.1,5,-3.5
+56,Najee Harris,RB,PIT,9,56,56,56,56,56.0,56,No,No,67.7,5,-3.6
+57,Nico Collins,WR,HOU,14,57,57,57,57,57.0,57,No,No,67.2,5,-3.8
+58,D'Andre Swift,RB,CHI,7,58,58,58,58,58.0,58,No,No,66.8,5,-3.9
+59,Tua Tagovailoa,QB,MIA,6,59,59,59,59,59.0,59,No,No,66.3,6,-4.1
+60,Kyle Pitts,TE,ATL,12,60,60,60,60,60.0,60,No,No,65.9,6,-4.2
+61,Chuba Hubbard,RB,CAR,11,61,61,61,61,61.0,61,No,No,65.4,6,-4.3
+62,Diontae Johnson,WR,CAR,11,62,62,62,62,62.0,62,No,No,65.0,6,-4.5
+63,Jerry Jeudy,WR,CLE,10,63,63,63,63,63.0,63,No,No,64.5,6,-4.6
+64,Courtland Sutton,WR,DEN,14,64,64,64,64,64.0,64,No,No,64.1,6,-4.7
+65,C.J. Stroud,QB,HOU,14,65,65,65,65,65.0,65,No,No,63.6,6,-4.8
+66,Tony Pollard,RB,TEN,5,66,66,66,66,66.0,66,No,No,63.2,6,-4.9
+67,Rashee Rice,WR,KC,6,67,67,67,67,67.0,67,No,No,62.7,6,-5.0
+68,David Montgomery,RB,DET,5,68,68,68,68,68.0,68,No,No,62.3,6,-5.1
+69,Dalton Kincaid,TE,BUF,12,69,69,69,69,69.0,69,No,No,61.8,7,-5.2
+70,Keenan Allen,WR,CHI,7,70,70,70,70,70.0,70,No,No,61.4,7,-5.3
+71,Caleb Williams,QB,CHI,7,71,71,71,71,71.0,71,No,No,60.9,7,-5.4
+72,Tyler Lockett,WR,SEA,10,72,72,72,72,72.0,72,No,No,60.5,7,-5.5
+73,Zamir White,RB,LV,10,73,73,73,73,73.0,73,No,No,60.0,7,-5.6
+74,Javonte Williams,RB,DEN,14,74,74,74,74,74.0,74,No,No,59.6,7,-5.7
+75,Michael Pittman Jr.,WR,IND,14,75,75,75,75,75.0,75,No,No,59.1,7,-5.8
+76,Ladd McConkey,WR,LAC,5,76,76,76,76,76.0,76,No,No,58.7,7,-5.9
+77,Trey McBride,TE,ARI,11,77,77,77,77,77.0,77,No,No,58.2,7,-5.9
+78,DeAndre Hopkins,WR,KC,6,78,78,78,78,78.0,78,No,No,57.8,7,-6.0
+79,Gus Edwards,RB,LAC,5,79,79,79,79,79.0,79,No,No,57.3,7,-6.1
+80,Kirk Cousins,QB,ATL,12,80,80,80,80,80.0,80,No,No,56.9,8,-6.1
+81,Jalen Hurts,QB,PHI,5,81,81,81,81,81.0,81,No,No,56.4,8,-6.2
+82,DK Metcalf,WR,SEA,10,82,82,82,82,82.0,82,No,No,56.0,8,-6.3
+83,Kareem Hunt,RB,KC,6,83,83,83,83,83.0,83,No,No,55.5,8,-6.3
+84,Jordan Addison,WR,MIN,6,84,84,84,84,84.0,84,No,No,55.1,8,-6.4
+85,Cedric Tillman,WR,CLE,10,85,85,85,85,85.0,85,No,No,54.6,8,-6.4
+86,Tucker Kraft,TE,GB,10,86,86,86,86,86.0,86,No,No,54.2,8,-6.5
+87,Jameson Williams,WR,DET,5,87,87,87,87,87.0,87,No,No,53.7,8,-6.5
+88,Jonathon Brooks,RB,CAR,11,88,88,88,88,88.0,88,No,No,53.3,8,-6.6
+89,Darnell Mooney,WR,ATL,12,89,89,89,89,89.0,89,No,No,52.8,8,-6.6
+90,Brandon Aiyuk,WR,SF,9,90,90,90,90,90.0,90,No,No,52.4,8,-6.7
+91,Baker Mayfield,QB,TB,11,91,91,91,91,91.0,91,No,No,51.9,8,-6.7
+92,Dandre Swift,RB,PHI,5,92,92,92,92,92.0,92,No,No,51.5,8,-6.7
+93,Justin Jefferson,WR,MIN,6,93,93,93,93,93.0,93,No,No,51.0,8,-6.8
+94,Pat Freiermuth,TE,PIT,9,94,94,94,94,94.0,94,No,No,50.6,8,-6.8
+95,Jaylen Warren,RB,PIT,9,95,95,95,95,95.0,95,No,No,50.1,8,-6.8
+96,Tyler Allgeier,RB,ATL,12,96,96,96,96,96.0,96,No,No,49.7,8,-6.9
+97,Christian Watson,WR,GB,10,97,97,97,97,97.0,97,No,No,49.2,8,-6.9
+98,Jalen Tolbert,WR,DAL,7,98,98,98,98,98.0,98,No,No,48.8,8,-6.9
+99,Bo Nix,QB,DEN,14,99,99,99,99,99.0,99,No,No,48.3,8,-6.9
+100,Cole Kmet,TE,CHI,7,100,100,100,100,100,100.0,100,No,No,47.9,8,-7.0
